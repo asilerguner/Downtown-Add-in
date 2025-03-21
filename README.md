@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 # Downtown Add-in for SOLIDWORKS
 
 ## Overview
