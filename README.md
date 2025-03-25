@@ -39,9 +39,6 @@ SolidWorks Downtown is a customizable add-in that allows users to manage macros,
 ## Contributing  
 Feel free to submit issues, feature requests, or contribute to the project!  
 
-## License  
-[Specify your license here]  
-
 ---
 
 Let me know if you need any refinements! 🚀  
