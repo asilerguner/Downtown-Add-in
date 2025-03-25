@@ -6,7 +6,7 @@ SolidWorks Downtown is a customizable add-in that allows users to manage macros,
 ## Installation  
 
 1. **Download** all files from GitHub.  
-2. **Register** the `.dll` file.  Example script for register: `C:\Windows\Microsoft.NET\Framework64\v4.0.30319\RegAsm.exe /codebase "%~dp0\bin\Debug\Downtown Add-in.dll`
+2. **Install** the addin.
 3. **Open SolidWorks** and navigate to:  
    - `Tools → Downtown Add-in → Import/Upload Database`  
 4. **Restart SolidWorks**.  
